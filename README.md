@@ -1,4 +1,4 @@
-# csv_table_style_shellscript
+# 概要
 テーブルスタイルでCSVファイルを表示する。Display CSV file in table style.
 
 ## 使用方法
